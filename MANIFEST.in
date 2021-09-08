@@ -1,0 +1,3 @@
+recursive-include django_light/static *
+global-exclude __pycache__
+global-exclude *.py[co]
