@@ -6,7 +6,7 @@ Disable dark mode in Django admin UI.
 ## Installation
 
 1. `pip install django-light`
-2. Add `'django_light',` to `INSTALLED_APPS` **before** `django.contrib.admin`
+2. **Before** `django.contrib.admin`, add `'django_light',` (with underscore) to `INSTALLED_APPS` 
 
 
 ## Implementation
